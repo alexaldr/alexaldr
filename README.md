@@ -21,7 +21,7 @@ Atualmente sou **Bombeiro Militar** no  [<img height="15" src="https://raw.githu
 <code><a href="https://pandas.pydata.org/"><img height="40" src="https://pandas.pydata.org/static/img/pandas_mark.svg"></a></code>
 <code><a href="https://numpy.org/"><img height="40" src="https://github.com/github/explore/raw/main/topics/numpy/numpy.png"></a></code>
 <code><a href="https://scikit-learn.org/"><img height="40" src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png"></a></code>
-<code><a href="https://www.microsoft.com/pt-br/windows/"><img height="40" src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-7.png"></a></code>
+<!--<code><a href="https://www.microsoft.com/pt-br/windows/"><img height="40" src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-7.png"></a></code>-->
 <code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img height="40" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png"></a></code>
 <code><a href="https://unity.com/pt"><img height="40" src="https://github.com/github/explore/raw/main/topics/unity/unity.png"></a></code>
 <code><a href="https://linuxmint.com/"><img height="40" src="https://github.com/github/explore/raw/main/topics/linux/linux.png"></a></code>
