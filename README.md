@@ -1,34 +1,48 @@
-# Alex Almeida
+![Código, dados e território — desenvolvimento de software, análise de dados e geoprocessamento.](assets/banner.svg)
 
-## Bem vindos! 👨‍💻
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexaldr/)](https://www.linkedin.com/in/alexaldr/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/alexaldr/)](https://www.instagram.com/alexaldr/)
- 
-  ## About me 🚒:
-Atualmente sou **Bombeiro Militar** no  [<img height="15" src="https://raw.githubusercontent.com/alexaldr/cbmmg_logos/main/RGB.svg"> Corpo de Bombeiros Militar de Minas Gerais](https://www.bombeiros.mg.gov.br/), tendo já atuado no serviço operacional, marketing, comunicação, informática e administração.
-- Possuo interesse de pesquisa em gamificação, web scraping, machine learning, bioinformática e informática na educação.
-> Apaixonado por Tecnologia 💻, Desenvolvimento de Software 💾, Games 🎮, Crossfit 💪🏽, Patins ⛸️ e Filmes/Séries 🎥.
+# Olá, eu sou o Alex Almeida
 
+**Bombeiro militar e desenvolvedor de software.**
 
-<br>
+Atuo no Corpo de Bombeiros Militar de Minas Gerais e desenvolvo soluções com código, dados e mapas. Minha experiência passa pelo serviço operacional, comunicação, informática e administração — áreas que ajudam a orientar meu olhar para os problemas que a tecnologia pode resolver.
 
-<details open>
-<summary><b>Linguagens, Ferramentas e Meios</b>:</summary>
-<code><a href="https://www.python.org/"><img height="40" src="https://github.com/github/explore/raw/main/topics/python/python.png"></a></code>
-<code><a href="https://pandas.pydata.org/"><img height="40" src="https://pandas.pydata.org/static/img/pandas_mark.svg"></a></code>
-<code><a href="https://numpy.org/"><img height="40" src="https://github.com/github/explore/raw/main/topics/numpy/numpy.png"></a></code>
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img height="40" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png"></a></code>
-<code><a href="https://unity.com/pt"><img height="40" src="https://github.com/github/explore/raw/main/topics/unity/unity.png"></a></code>
-<code><a href="https://www.postgresql.org/"><img height="40" src="https://github.com/github/explore/raw/main/topics/postgresql/postgresql.png"></a></code>
-<code><a href="https://www.mysql.com/"><img height="40" src="https://github.com/github/explore/raw/main/topics/mysql/mysql.png"></a></code>
-<code><a href="https://git-scm.com/"><img height="40" src="https://github.com/github/explore/raw/main/topics/git/git.png"></a></code>
-<code><a href="https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html"><img height="40" src="https://github.com/github/explore/raw/main/topics/jupyter-notebook/jupyter-notebook.png"></a></code>
-<code><a href="https://code.visualstudio.com/"><img height="40" src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png"></a></code>
-<code><a href="https://www.latex-project.org/"><img height="40" src="https://github.com/github/explore/raw/main/topics/latex/latex.png"></a></code>
+Tenho especial interesse em transformar processos manuais em ferramentas úteis, organizar informações e tornar dados mais fáceis de interpretar.
 
-</details>
+[LinkedIn](https://www.linkedin.com/in/alexaldr/) · [Currículo Lattes](http://lattes.cnpq.br/0965969309224259) · [Instagram](https://www.instagram.com/alexaldr/)
 
-<br>
+## Onde concentro meu trabalho
+
+- **Software e automação:** aplicações web, integração de sistemas e ferramentas para simplificar rotinas.
+- **Dados e geoprocessamento:** análise de informações, cartografia com QGIS e aplicações relacionadas a incêndios florestais.
+- **Conhecimento compartilhado:** materiais didáticos, exemplos de código e documentação para quem está aprendendo.
+
+## Tecnologias que utilizo
+
+| Área | Ferramentas |
+|---|---|
+| Desenvolvimento | Python · JavaScript / TypeScript · C# · Django · Flask · React |
+| Dados e mapas | QGIS · PostgreSQL / PostGIS · Pandas · NumPy · Jupyter |
+| Ambiente de trabalho | Git · Linux · Docker |
+
+## Explore meu trabalho público
+
+| Projeto | O que você encontra |
+|---|---|
+| [Curso de Python](https://github.com/alexaldr/curso_de_python) | Notebooks e apresentações do minicurso que ministrei na Semana de Integração da Unimontes, em 2019. |
+| [PyVision](https://github.com/alexaldr/pyvision) | Experimento de integração com Google Cloud Vision para localizar faces em imagens. Acervo de estudo, arquivado. |
+| [Webcam e análise de imagens](https://github.com/alexaldr/WebcamAforgeImageAnalisys) | Projeto em C# com captura de webcam e integração de visão computacional. Acervo de estudo, arquivado. |
+
+Esses materiais registram diferentes etapas da minha trajetória. Os projetos arquivados são referências históricas, sem manutenção ativa.
+
+## Formação e interesses
+
+Sou pós-graduado em **Análise de Dados**, graduado em **Gestão de Tecnologia da Informação** e técnico em **Informática**.
+
+Também me interesso por aprendizado de máquina, extração de dados e tecnologia na educação. Fora do código, gosto de games, CrossFit, patins, filmes e séries.
+
+## Vamos conversar?
+
+Se você trabalha com desenvolvimento, dados, geoprocessamento ou tecnologia aplicada ao serviço público, podemos trocar experiências pelo [LinkedIn](https://www.linkedin.com/in/alexaldr/).
 
 
 

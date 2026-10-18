@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Código, dados e território</title>
+  <desc id="desc">Banner de Alex Almeida, com fundo azul escuro, linhas cartográficas abstratas e três pontos em laranja.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#102a35"/>
+      <stop offset="1" stop-color="#183e43"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#aad0cb" stroke-opacity=".06"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1200" height="300" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <g fill="none" stroke="#8ab8b0" stroke-width="1.5" opacity=".24">
+      <path d="M770-30C680 50 910 100 830 185S770 325 930 340"/>
+      <path d="M820-30C730 50 960 100 880 185S820 325 980 340"/>
+      <path d="M870-30C780 50 1010 100 930 185S870 325 1030 340"/>
+      <path d="M920-30C830 50 1060 100 980 185S920 325 1080 340"/>
+      <path d="M970-30C880 50 1110 100 1030 185S970 325 1130 340"/>
+      <path d="M1020-30C930 50 1160 100 1080 185S1020 325 1180 340"/>
+      <path d="M1070-30C980 50 1210 100 1130 185S1070 325 1230 340"/>
+    </g>
+    <path d="M920 95L1030 150L990 230" stroke="#ecad72" stroke-width="2" stroke-dasharray="5 7" fill="none" opacity=".65"/>
+    <g fill="#ecad72">
+      <circle cx="920" cy="95" r="5"/>
+      <circle cx="1030" cy="150" r="6"/>
+      <circle cx="990" cy="230" r="5"/>
+    </g>
+    <rect x="54" y="55" width="38" height="4" rx="2" fill="#ecad72"/>
+    <text x="54" y="103" fill="#acc9c8" font-family="DejaVu Sans, sans-serif" font-size="17" letter-spacing="3">ALEX ALMEIDA</text>
+    <text x="51" y="172" fill="#f1f5f2" font-family="DejaVu Sans, sans-serif" font-size="47" font-weight="700">Código, dados e território.</text>
+    <text x="54" y="220" fill="#c4d7d5" font-family="DejaVu Sans, sans-serif" font-size="21">Software · Análise de dados · Geoprocessamento</text>
+  </g>
+</svg>
